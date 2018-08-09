@@ -6,6 +6,8 @@ To use, call to get the next pseudo random number.
 function rng:get_next
 ```
 
+RNG score is stored in "RNG PseudoRNG"
+
 To get between a range of numbers, you have to the min and max first
 
 ```

@@ -8,7 +8,7 @@ function rng:get_next
 
 RNG score is stored in "RNG PseudoRNG"
 
-To get between a range of numbers, you have to the min and max first
+To get between a range of numbers, you have to set the min and max first
 
 ```
 scoreboard players set RangeInputLow PseudoRNG 0
